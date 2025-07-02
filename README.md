@@ -78,7 +78,7 @@ As a cybersecurity analyst with a healthcare lens, I’m driven to:
 
 ## 📫 Let’s Connect
 
-- ✉️ Email: [your.email@example.com]  
+ 
 - 💼 LinkedIn: [linkedin.com/in/franseleneclarke](https://linkedin.com/in/franseleneclarke)  
 - 📁 Résumé: Available upon request or included in this repository
 
